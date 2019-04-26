@@ -1,0 +1,14 @@
+[
+  {
+    "test":"hej",
+    "city":"malmo"
+  },
+  {
+    "test":"mmmm",
+    "city": "cph"
+  },
+  {
+    "test": "nonon",
+    "city": "london"
+  }
+]
